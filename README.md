@@ -10,7 +10,7 @@
 ![alt text](https://github.com/MaayanFarchi/Damka/blob/master/GameBoard.png)
 
 ## Installation
-1. Install Visual Studio (Any version from 2012 should work)  
+1. Install Visual Studio (Any version from 2012 should work). 
 
 ## How to use?
 1. Clone this repo to your local machine using https://github.com/MaayanFarchi/Damka-WinForms
