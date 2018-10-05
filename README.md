@@ -1,5 +1,6 @@
 # Damka
-A a basic Damaka Windows desktop application using .NET WinForms using events that are raised from the 
+-A a basic Damaka Windows desktop application using .NET WinForms
+-The game is designed in a way that events are raised from the 
 Logic Layer and handled in the UI layer for updating the display. 
 
 ## Screenshots
